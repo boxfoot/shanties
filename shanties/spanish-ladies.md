@@ -1,5 +1,7 @@
 ---  
-title: Spanish Ladies  
+title: Spanish Ladies
+aka:
+ - We'll Rant and We'll Roar (Like True British Sailors)
 ---  
   
 Farewell and adieu to you, Spanish Ladies,  

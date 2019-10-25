@@ -1,5 +1,5 @@
 ---  
-title: Rant and Roar (like true Newfoundlanders)
+title: We'll Rant and We'll Roar (Like True Newfoundlanders)
 ---  
   
 **We'll rant and we'll roar like true Newfoundlanders**  
