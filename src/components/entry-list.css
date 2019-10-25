@@ -1,0 +1,17 @@
+.all-posts {
+    column-count: 2
+}
+
+.letter {
+    break-inside: avoid
+}
+
+.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+    padding-left: 0;
+}
+
+.posts li {
+    list-style: none;
+}
